@@ -1,4 +1,4 @@
-// Purpose: To create a simple server that allows users to post comments and view all comments.
+//Create web server for comment
 var http = require('http');
 var url = require('url');
 var fs = require('fs');
